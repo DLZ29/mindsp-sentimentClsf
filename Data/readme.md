@@ -1,2 +1,2 @@
-Modified data is denoised.
+Modified data is the denoised version.
 
